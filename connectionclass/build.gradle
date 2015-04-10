@@ -27,4 +27,4 @@ dependencies {
     testCompile 'org.powermock:powermock-module-junit4:1.6.1'
 }
 
-apply from: rootProject.file('release.gradle')
+// apply from: rootProject.file('release.gradle')
